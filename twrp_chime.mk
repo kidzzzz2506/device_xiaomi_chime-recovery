@@ -33,5 +33,5 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := SM6115
 PRODUCT_MANUFACTURER := Xiaomi
 
-# hani TWRP version
-TW_DEVICE_VERSION  := hani
+# Kidzz TWRP version
+TW_DEVICE_VERSION  := Kidzz
