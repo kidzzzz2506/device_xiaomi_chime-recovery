@@ -78,7 +78,7 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
 
 	# R12.1 Settings
 	export FOX_VERSION="R12.1_8"
-	export OF_MAINTAINER="itsHanibee"
+	export OF_MAINTAINER="Kidzzz"
 
 	# let's see what are our build VARs
 	if [ -n "$FOX_BUILD_LOG_FILE" -a -f "$FOX_BUILD_LOG_FILE" ]; then
